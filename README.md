@@ -23,3 +23,8 @@
 <a href="https://github.com/xifangczy/cat-catch" target="_blank">猫抓</a><br/>
 <a href="https://microsoftedge.microsoft.com/addons/detail/distill-web-monitor/hldhhgncaohjmpcjjhggekonocabhceg" target="_blank">Distill Web Monitor</a><br/>
 <a href="https://microsoftedge.microsoft.com/addons/detail/%E5%9C%A8%E7%BA%BF%E9%9F%B3%E4%B9%90%E7%9B%92/olaohimdpfifjlhlinbpcomealcebinf" target="_blank">Listen1</a><br/>
+<a href="https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced" target="_blank">Global Speed: 视频速度控制</a><br/>
+<a href="https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh" target="_blank">Adblock Plus - 免费的广告拦截器</a><br/>
+<a href="https://github.com/gildas-lormeau/SingleFile" target="_blank">SingleFile</a><br/>
+
+
