@@ -16,3 +16,10 @@
 <a href="https://pc.qq.com/detail/8/detail_24068.html" target="_blank">GeekUninstall</a><br/>
 <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a><br/>
 <a href="https://pc.qq.com/detail/11/detail_1511.html" target="_blank">格式工厂</a><br/>
+
+# crx浏览器插件
+
+<a href="https://microsoftedge.microsoft.com/addons/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/cagicamgdlbdmonbclkpgiabbldodgae" target="_blank">哔哩哔哩下载助手</a><br/>
+<a href="https://github.com/xifangczy/cat-catch" target="_blank">猫抓</a><br/>
+<a href="https://microsoftedge.microsoft.com/addons/detail/distill-web-monitor/hldhhgncaohjmpcjjhggekonocabhceg" target="_blank">Distill Web Monitor</a><br/>
+<a href="https://microsoftedge.microsoft.com/addons/detail/%E5%9C%A8%E7%BA%BF%E9%9F%B3%E4%B9%90%E7%9B%92/olaohimdpfifjlhlinbpcomealcebinf" target="_blank">Listen1</a><br/>
